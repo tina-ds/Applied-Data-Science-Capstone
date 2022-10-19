@@ -34,7 +34,7 @@ The goal of this project is to create a machine learning pipeline to predict whe
   - With heavy payloads, landing success or positive landing speed is greater for Polar, LEO and ISS orbits.
   - In addition, the proximity of the equator line, coastline, highways has a positive effect on the probability of a successful rocket launch.
   - SpaceX launch success rates are relatively increasing over time, and it looks like they will hit the required target soon.
-
+![thank-you](https://github.com/tina-ds/Applied-Data-Science-Capstone/blob/ba396fa79f8bf1057bf78127ae7e52bac13de1a0/images/thank-you.png)
 
 
 
