@@ -9,11 +9,11 @@ The goal of this project is to create a machine learning pipeline to predict whe
 
 ## Problems we want to find answers
 
-Factors that determine successful rocket landing.
+- Factors that determine successful rocket landing.
 
-The effect of each relationship of rocket variables on outcome.
+- The effect of each relationship of rocket variables on outcome.
 
-Conditions which will aid SpaceX have to achieve the best results.
+- Conditions which will aid SpaceX have to achieve the best results.
 
 
 
