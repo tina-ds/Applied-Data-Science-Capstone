@@ -2,7 +2,7 @@
 
 This is the capstone project I had to develop in order to get approved in the IBM Data Science Professional Certificate.
 
-!['IBM-Data-Science'-Professional-Certification](https://github.com/tina-ds/Applied-Data-Science-Capstone/blob/782db4258fe9ceb045b6e854624f7bd6afc1c6ad/'IBM%20Data%20Science'%20Professional%20Certification.pdf)
+[!'IBM-Data-Science'-Professional-Certification](https://github.com/tina-ds/Applied-Data-Science-Capstone/blob/782db4258fe9ceb045b6e854624f7bd6afc1c6ad/'IBM%20Data%20Science'%20Professional%20Certification.pdf)
 
 ![Data-Science-Professional-Certificate-Badge](https://github.com/tina-ds/Applied-Data-Science-Capstone/blob/782db4258fe9ceb045b6e854624f7bd6afc1c6ad/Data_Science_Professional_Certificate_Badge.pdf)
 In this work, we will predict whether the first stage of the Falcon 9 will land successfully. SpaceX advertises $62 million cost of Falcon 9 rocket launches on its website; other providers cost more than $165 million each, most of the savings is because Space X being able to reuse the first stage.
